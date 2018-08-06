@@ -1,2 +1,2 @@
 # promostandards
-Promo Standards API using Flask, Python and Mysql
+Promo Standards API using Flask, Python and Mongo
